@@ -14,7 +14,16 @@ Javascript Calculator (http://codepen.io/MaxVL/pen/mOoLJM)
 
 **Today's Progress**: Continuing to work on the JS calculator.
 
-**Thoughts** 
+**Thoughts** Got frustrated with the spaghetti code in the calculator logic so ripped it all out and wrote a bunch of pseudo-code scenarios. Starting to code this tomorrow.
+
+**Link(s) to work**
+Javascript Calculator (http://codepen.io/MaxVL/pen/mOoLJM)
+
+### Day 3: January 5 2017, Wednesday
+
+**Today's Progress**: Finished the JS calculator!
+
+**Thoughts** After doing some research on 'how have others', turns out it was WAY easier to work with strings and use JS's native eval() function. Not sure how 'clean' this is (Codepen warns against using eval()), but it works! On to the next one :) 
 
 **Link(s) to work**
 Javascript Calculator (http://codepen.io/MaxVL/pen/mOoLJM)
