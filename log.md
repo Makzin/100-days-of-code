@@ -23,7 +23,16 @@ Javascript Calculator (http://codepen.io/MaxVL/pen/mOoLJM)
 
 **Today's Progress**: Finished the JS calculator!
 
-**Thoughts** After doing some research on 'how have others', turns out it was WAY easier to work with strings and use JS's native eval() function. Not sure how 'clean' this is (Codepen warns against using eval()), but it works! On to the next one :) 
+**Thoughts** After doing some research on 'how have others', turns out it was WAY easier to work with strings and use JS's native eval() function. Not sure how 'clean' this is (Codepen warns against using eval()), but it works! On to the next one :)
 
 **Link(s) to work**
 Javascript Calculator (http://codepen.io/MaxVL/pen/mOoLJM)
+
+### Day 4: January 6 2017, Wednesday
+
+**Today's Progress**: Started the JS Pomodoro Clock
+
+**Thoughts** Started reading up on how JS handles time and thinking about how this can be built into a countdown timer.
+
+**Link(s) to work**
+Pomodoro Clock - http://codepen.io/MaxVL/pen/rjVWjp
