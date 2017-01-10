@@ -19,7 +19,7 @@ Javascript Calculator (http://codepen.io/MaxVL/pen/mOoLJM)
 **Link(s) to work**
 Javascript Calculator (http://codepen.io/MaxVL/pen/mOoLJM)
 
-### Day 3: January 5 2017, Wednesday
+### Day 3: January 5 2017, Thursday
 
 **Today's Progress**: Finished the JS calculator!
 
@@ -28,11 +28,29 @@ Javascript Calculator (http://codepen.io/MaxVL/pen/mOoLJM)
 **Link(s) to work**
 Javascript Calculator (http://codepen.io/MaxVL/pen/mOoLJM)
 
-### Day 4: January 6 2017, Wednesday
+### Day 4: January 6 2017, Friday
 
 **Today's Progress**: Started the JS Pomodoro Clock
 
 **Thoughts** Started reading up on how JS handles time and thinking about how this can be built into a countdown timer.
+
+**Link(s) to work**
+Pomodoro Clock - http://codepen.io/MaxVL/pen/rjVWjp
+
+### Day 5: January 9 2017, Monday
+
+**Today's Progress**: Continued the JS Pomodoro Clock
+
+**Thoughts** Continued work on the timer. Got the countdown from 25min working - next up: adding buttons to start, stop, pause etc
+
+**Link(s) to work**
+Pomodoro Clock - http://codepen.io/MaxVL/pen/rjVWjp
+
+### Day 6: January 10 2017, Tuesday
+
+**Today's Progress**: Continued the JS Pomodoro Clock
+
+**Thoughts** Got start, stop and resume buttons working! Learned about setInterval() and clearInterval() native functions. Next up: adding buttons to increase/ decrease desired time. 
 
 **Link(s) to work**
 Pomodoro Clock - http://codepen.io/MaxVL/pen/rjVWjp
