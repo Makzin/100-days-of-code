@@ -50,7 +50,35 @@ Pomodoro Clock - http://codepen.io/MaxVL/pen/rjVWjp
 
 **Today's Progress**: Continued the JS Pomodoro Clock
 
-**Thoughts** Got start, stop and resume buttons working! Learned about setInterval() and clearInterval() native functions. Next up: adding buttons to increase/ decrease desired time. 
+**Thoughts** Got start & stop buttons working! Learned about setInterval() and clearInterval() native functions. Next up: adding buttons to increase/ decrease desired time.
+
+**Link(s) to work**
+Pomodoro Clock - http://codepen.io/MaxVL/pen/rjVWjp
+
+### Day 7: January 11 2017, Wednesday
+
+**Today's Progress**: Continued the JS Pomodoro Clock
+
+**Thoughts** User can now increase/decrease desired time. Also added a 'break' timer. Next up: styling and bugs!
+
+**Link(s) to work**
+Pomodoro Clock - http://codepen.io/MaxVL/pen/rjVWjp
+
+### Day 8: January 12 2017, Thursday
+
+**Today's Progress**: Continued the JS Pomodoro Clock
+
+**Thoughts** Finished the styling and core functionality (with much cleaner code!). Tackling a few bugs now.
+
+**Link(s) to work**
+Pomodoro Clock - http://codepen.io/MaxVL/pen/rjVWjp
+
+
+### Day 9: January 13 2017, Friday
+
+**Today's Progress**: Finished the JS Pomodoro Clock
+
+**Thoughts** Bugs all done! Project finished. One outstanding bug is to fix the double digit seconds when < 10 seconds left to go.
 
 **Link(s) to work**
 Pomodoro Clock - http://codepen.io/MaxVL/pen/rjVWjp
