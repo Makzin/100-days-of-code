@@ -82,3 +82,49 @@ Pomodoro Clock - http://codepen.io/MaxVL/pen/rjVWjp
 
 **Link(s) to work**
 Pomodoro Clock - http://codepen.io/MaxVL/pen/rjVWjp
+
+
+### Day 10: January 15 2017, Sunday
+
+**Today's Progress**: Started the TicTacToe game
+
+**Thoughts** Basic styling and starting functionality of TicTacToe game. This'll be fun
+
+**Link(s) to work**
+TicTacToe Game-  https://t.co/1pR47fOtis
+
+### Day 11: January 16 2017, Monday
+
+**Today's Progress**: Continue on TicTacToe game
+
+**Thoughts** Core gameplay mechanics finished! Need to implement logic to determine winner.
+
+**Link(s) to work**
+TicTacToe Game-  https://t.co/1pR47fOtis
+
+### Day 12: January 17 2017, Tuesday
+
+**Today's Progress**: Continue on TicTacToe game
+
+**Thoughts** Almost done TicTacToe game. All that's left is implementing the 'draw' mechanics.
+
+**Link(s) to work**
+TicTacToe Game-  https://t.co/1pR47fOtis
+
+### Day 13: January 18 2017, Wednesday
+
+**Today's Progress**: Finished the TicTacToe game
+
+**Thoughts** All done! Some minor bugs (including color switching of symbols). Generally don't feel too good about this code, too many jquery fades etc. Anyway, should refactor this in the future. Running a bit low on Javascript energy, so I don't even know if I'll start the Simon Game next.
+
+**Link(s) to work**
+TicTacToe Game-  https://t.co/1pR47fOtis
+
+### Day 14: January 19 2017, Thursday
+
+**Today's Progress**: Started learning PHP!
+
+**Thoughts**
+After talking to a co-worker on a good project to work on, he recommended that I build a blog application from scratch using PHP and MySQL. Given my recent burnout with Javascript, I figured I would take a short break to go and learn PHP before coming back to the Simon Game.
+
+**Link(s) to work**
