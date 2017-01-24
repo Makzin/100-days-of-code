@@ -125,6 +125,23 @@ TicTacToe Game-  https://t.co/1pR47fOtis
 **Today's Progress**: Started learning PHP!
 
 **Thoughts**
-After talking to a co-worker on a good project to work on, he recommended that I build a blog application from scratch using PHP and MySQL. Given my recent burnout with Javascript, I figured I would take a short break to go and learn PHP before coming back to the Simon Game.
+After talking to a co-worker on a good project to work on, he recommended that I build a blog application from scratch using PHP and MySQL. Given my recent burnout with Javascript, I figured I would take a short break to go and learn PHP before coming back to the Simon Game and continue with JS.
+
+**Link(s) to work**
+
+### Day 15: January 24 2017, Tuesday
+
+**Today's Progress**: Been continuously learning PHP on both Codeschool and TeamTreehouse, there's a lot to go through. Set up a server with DigitalOcean, installed the LAMP stack on it, got a MySQL server up and running.
+
+**Thoughts**: Feeling a bit frustrated with the slower progress, which is normal given that I'm learning an entirely new syntax, as well as doing server-side programming for the first time. PHP is really interesting so far, I like how it works sequentially (none of the async stuff JS has). It is REALLY strict though (spent 20 minutes tracking down a missing semi-colon). Also, need to get used to mixing php and html syntax, which can get... finicky (lots of quotation marks, lol). Treehouse has proven to be a much better resource than CodeSchool in this regard. Also been thinking about signing up for Launchschool.com, which focuses very in-depth on Ruby and Rails. However, after speaking to a few co-workers AND doing some quick googling, it seems like a much better idea to get a good grasp on PHP to really get a solid understanding of how it all works (having your website interact with the DB and the server). Ruby on Rails seems to have too much 'magic' happening under the hood. It optimizes for speed and to get up and running fast, which is neat, but not what I'm looking for. I need a solid understanding of the core mechanics before I can start utilizing magic tricks. I want to apply this to my Javascript learning as well. Frameworks like React look really neat, but without getting a good core understanding of Javascript I feel like I'd be screwing myself over in the long run.
+
+**Link(s) to work**
+None yet. 
+
+### Day xx: Month day year, Day
+
+**Today's Progress**
+
+**Thoughts**
 
 **Link(s) to work**
