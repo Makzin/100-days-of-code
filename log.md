@@ -136,7 +136,26 @@ After talking to a co-worker on a good project to work on, he recommended that I
 **Thoughts**: Feeling a bit frustrated with the slower progress, which is normal given that I'm learning an entirely new syntax, as well as doing server-side programming for the first time. PHP is really interesting so far, I like how it works sequentially (none of the async stuff JS has). It is REALLY strict though (spent 20 minutes tracking down a missing semi-colon). Also, need to get used to mixing php and html syntax, which can get... finicky (lots of quotation marks, lol). Treehouse has proven to be a much better resource than CodeSchool in this regard. Also been thinking about signing up for Launchschool.com, which focuses very in-depth on Ruby and Rails. However, after speaking to a few co-workers AND doing some quick googling, it seems like a much better idea to get a good grasp on PHP to really get a solid understanding of how it all works (having your website interact with the DB and the server). Ruby on Rails seems to have too much 'magic' happening under the hood. It optimizes for speed and to get up and running fast, which is neat, but not what I'm looking for. I need a solid understanding of the core mechanics before I can start utilizing magic tricks. I want to apply this to my Javascript learning as well. Frameworks like React look really neat, but without getting a good core understanding of Javascript I feel like I'd be screwing myself over in the long run.
 
 **Link(s) to work**
-None yet. 
+None yet.
+
+### Day 16: January 30 2017, Monday
+
+**Today's Progress** Rebuilt MaxVL.com from scratch in PHP and set up a 'blog' section. Connected it to a DB and am able to successfully query it for article content! Next up, protecting against SQL injection attacks and learning how to actually add entries into the DB.
+
+**Thoughts**
+Pretty hopeful so far! It's been an interesting ride with PHP and I'm still not sure how in-depth I want to really learn this stuff before tackling something like say Launchschool. There's this nagging doubt that I'm not learning things in depth enough, and that I don't know where to dig deep. Do I spend weeks/ months looking deeper into PHP and everything that comes with it? Or do I follow a more set path and pay others to determine my progress? I like Wyatt's suggestion about getting exposure to 'basic' things like connnecting to a DB, setting up user authentication, etc for free doing the things I'm doing now.  I still believe that once I've set up the blog and feel good about it I might move on to the Launchschool curriculum (after finishing up the front-end piece of FreeCodeCamp). The whole Mastery-based learning approach really speaks to me.
+
+In other thoughts: my CSS still sucks hardcore - I really need to learn that shit from the fundamentals. Just reworking some of the stuff on MaxVL is sort of 'change value, see the change, change value again' without really understanding what's happening.
+
+I also started thinking about attending things like Hackathons. It seems like a really good idea, even as a beginner, so start going to these things - even if I don't know much. Still will take a lot of willpower to attend, so I'm not really sure at this point. There's DEMENTIAHACK in March, which seems cool but I don't know if I'll be able to contribute much to either the 'issues' or the actual code, knowing what I know.
+
+AAANd another stream of thought is contributing to open source. I understand it's all the rage and you're encouraged to get into that as soon as possible - but not even sure if I can with the skills I have. I mean, basic PHP and Javascript? Are there even new, beginner-geared open source PHP projects? I mean, I'm sure there are. I guess this is the same thing every code newbie runs into.
+
+Anyway, I'm looking forward to porting this stuff over onto the blog once it's ready. 
+
+
+
+**Link(s) to work**
 
 ### Day xx: Month day year, Day
 
