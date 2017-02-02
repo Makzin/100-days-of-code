@@ -151,11 +151,25 @@ I also started thinking about attending things like Hackathons. It seems like a 
 
 AAANd another stream of thought is contributing to open source. I understand it's all the rage and you're encouraged to get into that as soon as possible - but not even sure if I can with the skills I have. I mean, basic PHP and Javascript? Are there even new, beginner-geared open source PHP projects? I mean, I'm sure there are. I guess this is the same thing every code newbie runs into.
 
-Anyway, I'm looking forward to porting this stuff over onto the blog once it's ready. 
+Anyway, I'm looking forward to porting this stuff over onto the blog once it's ready.
 
 
 
 **Link(s) to work**
+None
+
+### Day 17: February 1 2017, Wednesday
+
+**Today's Progress**
+Learned all about CRUD in PHP.
+
+**Thoughts**
+Followed a TreeHouse tutorial that taught me how to create records in a DB table, which is awesome! Since I need to learn how to actually insert blogposts into my DB. Next, I need to actually build a form that'll allow me to input some blog text, as well as a date. Having done the filtering input and sanitizing output part twice now, it's starting to become a bit more familiar and much less abstract. Still a bit fuzzy on when you would need to prepare queries, but I think practice will help here.
+Still looking to get through the blog application in PHP before starting in earnest on the LaunchSchool Ruby stuff.
+
+**Link(s) to work**
+
+
 
 ### Day xx: Month day year, Day
 
