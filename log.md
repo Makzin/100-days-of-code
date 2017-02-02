@@ -169,6 +169,21 @@ Still looking to get through the blog application in PHP before starting in earn
 
 **Link(s) to work**
 
+### Day 18: February 2 2017, Thursday
+
+**Today's Progress**
+Updated the blog to accept new posts and write them to the DB
+
+**Thoughts**
+Figured out how to take form input and post that to the DB. Still working through some issues (like how to get the article_id to auto-increment) as well as somehow set the proper date and subject (which currently isn't happening). Gotta debug that tomorrow.
+
+
+**Link(s) to work**
+https://github.com/Makzin/maxvl.com
+
+
+
+
 
 
 ### Day xx: Month day year, Day
