@@ -182,6 +182,19 @@ Figured out how to take form input and post that to the DB. Still working throug
 https://github.com/Makzin/maxvl.com
 
 
+### Day 19: February 4 2017, Saturday
+
+**Today's Progress**
+Learned more about the command line
+
+**Thoughts**
+Reading a book by LaunchSchool about the CLI, probably will be going over it a few times or print out a list of the commands.
+
+
+**Link(s) to work**
+none
+
+
 
 
 
