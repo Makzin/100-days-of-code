@@ -216,11 +216,42 @@ Finished book about the command line, started exercises in Ruby.
 **Thoughts**
 Continuing on the learning path, I think it makes more sense to start the LaunchSchool curriculum now and really study to the point of mastery. I can try the self-teaching free approach for a while longer, but if I don't really fully understand what I'm doing than I'm just spinning my wheels. It's no use having built some toy apps if I'm still stuck staring at a blank editor when tasked to build something.
 
-Ruby's not my first choice when it comes to language (after having sort of started with Javascript), but it's the language LaunchSchool is using. Also, from everything I've read, first language doesn't really matter as the core programming concepts remain the same agnostic of the language. 
+Ruby's not my first choice when it comes to language (after having sort of started with Javascript), but it's the language LaunchSchool is using. Also, from everything I've read, first language doesn't really matter as the core programming concepts remain the same agnostic of the language.
 
 **Link(s) to work**
 none
 
+## Day 22: February 17 2017, Tuesday
+
+**Today's Progress**
+More Ruby basic syntax- arrays, hashes, methods
+
+**Thoughts**
+
+**Link(s) to work**
+none
+
+## Day 23: February 18 2017, Tuesday
+
+**Today's Progress**
+Ruby syntax: Blocks, Procs, Lambdas.
+
+**Thoughts**
+Not sure how I feel so far, definitely different from what I've done before
+
+**Link(s) to work**
+none
+
+## Day 24: February 23 2017, Tuesday
+
+**Today's Progress**
+Ruby syntax
+
+**Thoughts**
+Still working through the Chris Pine book. Lots of repetition so far.
+
+**Link(s) to work**
+none
 
 
 
