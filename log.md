@@ -195,6 +195,34 @@ Reading a book by LaunchSchool about the CLI, probably will be going over it a f
 none
 
 
+### Day 20: February 9 2017, Thursday
+
+**Today's Progress**
+Learned more about the command line - specifically around Files, Directories and executables.
+
+**Thoughts**
+Reading a book by LaunchSchool about the CLI, probably will be going over it a few times or print out a list of the commands. Also started making a flashcard deck on BrainScape. Not really made much progress with the php blog, since the TeamTreehouse videos now just go through stuff that I don't really understand. I mean, I can code along with their video just fine, but I don't understand what I'm writing.It's exactly the same problem I have with other material as well (such as bootcamps, etc). They just have you write stuff without understanding why you're writing it in full.
+
+Hoping to get some time away from it - starting on the LS stuff. I might come back to the blog and finish it for the sake of finishing it, however, I find little value in that if I don't understand exactly what I'm doing.
+
+**Link(s) to work**
+none
+
+### Day 21: February 14 2017, Tuesday
+
+**Today's Progress**
+Finished book about the command line, started exercises in Ruby.
+
+**Thoughts**
+Continuing on the learning path, I think it makes more sense to start the LaunchSchool curriculum now and really study to the point of mastery. I can try the self-teaching free approach for a while longer, but if I don't really fully understand what I'm doing than I'm just spinning my wheels. It's no use having built some toy apps if I'm still stuck staring at a blank editor when tasked to build something.
+
+Ruby's not my first choice when it comes to language (after having sort of started with Javascript), but it's the language LaunchSchool is using. Also, from everything I've read, first language doesn't really matter as the core programming concepts remain the same agnostic of the language. 
+
+**Link(s) to work**
+none
+
+
+
 
 
 
